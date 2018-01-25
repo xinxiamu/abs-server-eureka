@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: abs-server-eureka
+  profiles:
+    active: dev
