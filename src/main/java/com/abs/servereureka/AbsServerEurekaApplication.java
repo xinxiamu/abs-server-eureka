@@ -1,4 +1,4 @@
-package com.ymu.abs.servereureka;
+package com.abs.servereureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

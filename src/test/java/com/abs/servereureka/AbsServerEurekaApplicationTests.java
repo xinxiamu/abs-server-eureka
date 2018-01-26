@@ -1,4 +1,4 @@
-package com.ymu.abs.absservereureka;
+package com.abs.servereureka;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
