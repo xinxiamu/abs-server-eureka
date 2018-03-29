@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ymu.abs</groupId>
-	<artifactId>abs-server-eureka</artifactId>
+	<artifactId>ymu-server-eureka</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>abs-server-eureka</name>
+	<name>ymu-server-eureka</name>
 	<description>eureka服务注册中心</description>
 
 	<parent>
