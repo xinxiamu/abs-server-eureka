@@ -1,5 +1,5 @@
 spring:
   application:
-    name: abs-server-eureka
+    name: ymu-server-eureka
   profiles:
     active: dev
